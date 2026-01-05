@@ -1,6 +1,6 @@
 {
   "name": "@mohit2404/payglocal-js-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PayGlocal JS client with npm/pnpm support (no git dependencies)",
   "main": "index.js",
   "type": "module",
